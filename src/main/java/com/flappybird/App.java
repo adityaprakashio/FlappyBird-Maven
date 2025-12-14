@@ -1,3 +1,4 @@
+package com.flappybird;
 import javax.swing.*;
 
 public class App {
